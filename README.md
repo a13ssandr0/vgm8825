@@ -20,6 +20,8 @@ IMPORTANT!! Always remember to check the box to restore default settings after f
 This is a work in progress until I manage to create and build a working image.
 I'll add here any resource that I find and consider helpful for building an image.
 
+This is a documented device with similar SoC: https://openwrt.org/toh/inteno/eg400?s[]=bcm963138
+
 ```
 # uname -a
 Linux VMG8825-B50B 4.1.52 #1 SMP PREEMPT Mon Aug 1 18:15:47 CEST 2022 armv7l GNU/Linux
